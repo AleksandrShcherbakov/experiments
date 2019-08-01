@@ -232,6 +232,7 @@ public class CheckingController {
                     }
                     else
                     res.append("Позиции "+pos+" в базе не найдено<br>");
+
                 }
             }
             catch (SQLException e){
